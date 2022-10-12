@@ -3,8 +3,20 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "axios": "1.1.2",
+    "events": "^3.3.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.70.2",
+    "react-redux": "8.0.4",
+    "redux": "4.2.0",
+    "redux-thunk": "2.4.1",
+    "state": "^0.2.0",
+    "zlib": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
