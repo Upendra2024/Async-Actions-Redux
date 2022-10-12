@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-]import { fetchUsers } from '../redux';
+import { fetchUsers } from '../redux';
 import {useSelector,useDispatch} from 'react-redux';
 
 function UserContainer({ userData,fetchUsers }) {
