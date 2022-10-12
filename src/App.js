@@ -8,7 +8,7 @@ export default function App() {
     <div>
      
       <h1>Hello Redux </h1>
-      <UserContainer/>
+      {/* <UserContainer/> */}
     </div>
   );
 }
